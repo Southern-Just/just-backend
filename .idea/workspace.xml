@@ -41,7 +41,6 @@
       <change afterPath="$PROJECT_DIR$/../editor/public/assets/images/modal.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/next.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/auth.controllers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -51,11 +50,8 @@
       <change beforePath="$PROJECT_DIR$/../app/globals.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/layout.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.development.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.development.local" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/auth.controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/auth.controllers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/auth.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../next.config.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
@@ -167,11 +163,23 @@
       <workItem from="1739805185838" duration="67000" />
       <workItem from="1739846009049" duration="815000" />
       <workItem from="1739879344138" duration="2087000" />
-      <workItem from="1739961661300" duration="2258000" />
+      <workItem from="1739961661300" duration="4055000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controllers/auth.controllers.js</url>
+          <line>53</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
