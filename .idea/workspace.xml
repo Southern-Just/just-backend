@@ -41,6 +41,8 @@
       <change afterPath="$PROJECT_DIR$/../editor/public/assets/images/modal.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/next.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/arcjet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/arcjet.middleware.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -50,8 +52,12 @@
       <change beforePath="$PROJECT_DIR$/../app/globals.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/layout.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.development.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.development.local" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/auth.middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../next.config.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -165,7 +171,7 @@
       <workItem from="1739961661300" duration="5358000" />
       <workItem from="1740025948322" duration="1709000" />
       <workItem from="1740103607373" duration="755000" />
-      <workItem from="1740317138345" duration="330000" />
+      <workItem from="1740317138345" duration="4534000" />
     </task>
     <servers />
   </component>
