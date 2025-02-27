@@ -41,7 +41,6 @@
       <change afterPath="$PROJECT_DIR$/../editor/public/assets/images/modal.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/next.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/membership.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -52,7 +51,6 @@
       <change beforePath="$PROJECT_DIR$/../app/layout.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/page.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/membership.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/membership.routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../next.config.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -169,7 +167,8 @@
       <workItem from="1740317138345" duration="5364000" />
       <workItem from="1740356000492" duration="4148000" />
       <workItem from="1740384445401" duration="1621000" />
-      <workItem from="1740449408789" duration="316000" />
+      <workItem from="1740449408789" duration="580000" />
+      <workItem from="1740456906071" duration="224000" />
     </task>
     <servers />
   </component>
