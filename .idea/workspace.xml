@@ -41,9 +41,6 @@
       <change afterPath="$PROJECT_DIR$/../editor/public/assets/images/modal.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/next.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../editor/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/upstash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/workflow.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/workflow.routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -53,12 +50,7 @@
       <change beforePath="$PROJECT_DIR$/../app/globals.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/layout.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.development.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.development.local" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../next.config.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -179,7 +171,8 @@
       <workItem from="1740682313236" duration="91000" />
       <workItem from="1740943851203" duration="914000" />
       <workItem from="1740962754233" duration="17000" />
-      <workItem from="1740988817464" duration="3227000" />
+      <workItem from="1740988817464" duration="4450000" />
+      <workItem from="1741002574723" duration="16000" />
     </task>
     <servers />
   </component>
