@@ -22,6 +22,7 @@ export const sendReminders = serve(async (context) => {
     const reminderDate = renewalDate.subtract(daysBefore, "day");
 
     if (reminderDate.isAfter(dayjs())) {
+      await sleepUntillReminder(context, `Reminder ${daysBefore} days before`);
     }
   }
 });
